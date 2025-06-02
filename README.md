@@ -3,9 +3,9 @@
 ##Project Overview:
  I recently completed a data analytics project analyzing Electric Vehicle (EV) Sales across Indian states from 2015 to 2024 using Python. This project involved data cleaning, exploration, and visualization to identify key trends in EV adoption.
 # Tools & Technologies Used:
- ✅ Python (Pandas, NumPy, Matplotlib, Seaborn)
- ✅ Data Cleaning & Preprocessing
- ✅ Exploratory Data Analysis (EDA)
+ ### Python (Pandas, NumPy, Matplotlib, Seaborn)
+ ### Data Cleaning & Preprocessing
+ ### Exploratory Data Analysis (EDA)
 # Data Insights & Key Findings:
  📈EV Sales Growth: Rapid increase in adoption since 2019, fueled by government incentives & consumer awareness.
  🏆 Top States in EV Adoption: Uttar Pradesh, Maharashtra, Karnataka, and Tamil Nadu lead in EV registrations.
